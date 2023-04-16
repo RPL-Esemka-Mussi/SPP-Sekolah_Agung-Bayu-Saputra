@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    scroll-padding-top: 80px;
+
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20pt;
+}
+.boxlogin{
+    padding-top: 15px;
+}
